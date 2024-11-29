@@ -1,4 +1,4 @@
-This is a **PoC(Proof of Concpet) for the Windows vunerability CVE-2024-38063**: LAYER 2  vulnerability includes the Windows' inability to process incoming IPv6 Packets properly and graciously, when being sent custom packages (here via Scpay) with the headerextension with an improper padding, causing an integer underflow.
+This is a **PoC(Proof of Concpet) for the Windows vunerability CVE-2024-38063**: LAYER 2  vulnerability includes the Windows' inability to process incoming IPv6 Packets properly and graciously, when being sent custom packets (here via Scpay) with the extraheaderextension with an improper padding, causing an integer underflow.
 
 
 
