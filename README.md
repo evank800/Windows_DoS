@@ -15,7 +15,7 @@ CATUION: DO NOT RUN THIS CODE IN AN UNSUPERVISED ENVIRONMENT.
 
 <h2>Demo</h2>
 <h3>This is a demo of the code on the windows 10 virtual machine running on linux</h3>
-<h4>I have chosen the virtual network interface vnet0 as interface that will be sending the custom packets. After exactly 60 seconds, the windows machine crashes, causing BSoD</h4>
+<h4>I have chosen the virtual network interface vnet0 as interface that will be sending the custom packets. After exactly 60 seconds, the windows machine crashes, causing BSoD(Blue Screen of Death)</h4>
 
 
 https://github.com/user-attachments/assets/4fa544d4-9698-4115-a0af-543ba3d85ced
