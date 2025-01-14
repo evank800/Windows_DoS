@@ -11,7 +11,7 @@ This project is a tweaking of/expansion to the orignal codes for better performa
 
 
 
-CATUION: DO NOT RUN THIS CODE IN AN UNSUPERVISED ENVIRONMENT. 
+CAUTION: DO NOT RUN THIS CODE IN AN UNSUPERVISED ENVIRONMENT. 
 
 <h2>Demo</h2>
 <h3>This is a demo of the code on the windows 10 virtual machine running on linux</h3>
