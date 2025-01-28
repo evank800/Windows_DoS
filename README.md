@@ -7,7 +7,7 @@ You can find their original code under https://www.exploit-db.com/exploits/52075
 
 
 
-This project is a tweaking of/expansion to the orignal codes for better performance, as well as additional functionalities such as searching through the local link(Layer 2) to find vulnerable targets, better address parsing schemes, letting the user choose the network interface, as well as automating the exploitation.
+This project is a tweaking of/expansion to the orignal codes for better performance, as well as additional functionalities such as searching through the local link(Layer 2) to find vulnerable targets, better address parsing schemes, letting the user choose the network interface, as well as automating the exploitation. 
 
 
 
